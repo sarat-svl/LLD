@@ -1,0 +1,16 @@
+# Java build output
+*.class
+out/
+bin/
+
+# Local configuration and secrets
+.env
+.env.*
+*.pem
+*.key
+*credentials*
+*secret*
+
+# Editor and OS files
+.DS_Store
+.vscode/
